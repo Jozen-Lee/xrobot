@@ -1,0 +1,8 @@
+prefix=/home/jozenlee/catkin_ws/install
+
+Name: UR3_gazebo
+Description: Description of UR3_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

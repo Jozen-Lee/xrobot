@@ -1,0 +1,8 @@
+prefix=/home/jozenlee/catkin_ws/install
+
+Name: probot_function
+Description: Description of probot_function
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs actionlib moveit_msgs

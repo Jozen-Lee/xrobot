@@ -1,0 +1,8 @@
+prefix=/home/jozenlee/catkin_ws/install
+
+Name: pixle_godzilla
+Description: Description of pixle_godzilla
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

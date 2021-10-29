@@ -1,0 +1,647 @@
+[
+{
+  "directory": "/home/jozenlee/catkin_ws/build/learning_parameter",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"learning_parameter\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG   -o CMakeFiles/parameter_config.dir/src/parameter_config.cpp.o -c /home/jozenlee/catkin_ws/src/learning_parameter/src/parameter_config.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/learning_parameter/src/parameter_config.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message.dir/src/byte_array.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/byte_array.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/byte_array.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message.dir/src/simple_message.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/simple_message.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/simple_message.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message.dir/src/smpl_msg_connection.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/smpl_msg_connection.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/smpl_msg_connection.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message.dir/src/socket/simple_socket.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/simple_socket.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/simple_socket.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message.dir/src/socket/tcp_client.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/tcp_client.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/tcp_client.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message.dir/src/socket/tcp_server.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/tcp_server.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/tcp_server.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message.dir/src/socket/tcp_socket.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/tcp_socket.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/tcp_socket.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message.dir/src/socket/udp_client.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/udp_client.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/udp_client.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message.dir/src/socket/udp_server.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/udp_server.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/udp_server.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message.dir/src/socket/udp_socket.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/udp_socket.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/udp_socket.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message.dir/src/joint_data.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_data.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_data.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message.dir/src/joint_feedback.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_feedback.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_feedback.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message.dir/src/joint_traj_pt_full.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_traj_pt_full.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_traj_pt_full.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message.dir/src/joint_traj_pt.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_traj_pt.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_traj_pt.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message.dir/src/joint_traj.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_traj.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_traj.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message.dir/src/message_handler.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/message_handler.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/message_handler.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message.dir/src/message_manager.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/message_manager.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/message_manager.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message.dir/src/ping_handler.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/ping_handler.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/ping_handler.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message.dir/src/ping_message.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/ping_message.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/ping_message.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message.dir/src/robot_status.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/robot_status.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/robot_status.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message.dir/src/messages/joint_feedback_message.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/joint_feedback_message.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/joint_feedback_message.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message.dir/src/messages/joint_message.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/joint_message.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/joint_message.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message.dir/src/messages/joint_traj_pt_full_message.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/joint_traj_pt_full_message.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/joint_traj_pt_full_message.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message.dir/src/messages/joint_traj_pt_message.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/joint_traj_pt_message.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/joint_traj_pt_message.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message.dir/src/messages/robot_status_message.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/robot_status_message.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/robot_status_message.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message.dir/src/simple_comms_fault_handler.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/simple_comms_fault_handler.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/simple_comms_fault_handler.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -Dsimple_message_dummy_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_dummy.dir/simple_message_dummy.cpp.o -c /home/jozenlee/catkin_ws/build/industrial_core/simple_message/simple_message_dummy.cpp",
+  "file": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message/simple_message_dummy.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DFLOAT64 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_float64_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_float64.dir/src/byte_array.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/byte_array.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/byte_array.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DFLOAT64 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_float64_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_float64.dir/src/simple_message.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/simple_message.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/simple_message.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DFLOAT64 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_float64_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_float64.dir/src/smpl_msg_connection.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/smpl_msg_connection.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/smpl_msg_connection.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DFLOAT64 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_float64_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_float64.dir/src/socket/simple_socket.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/simple_socket.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/simple_socket.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DFLOAT64 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_float64_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_float64.dir/src/socket/tcp_client.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/tcp_client.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/tcp_client.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DFLOAT64 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_float64_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_float64.dir/src/socket/tcp_server.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/tcp_server.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/tcp_server.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DFLOAT64 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_float64_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_float64.dir/src/socket/tcp_socket.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/tcp_socket.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/tcp_socket.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DFLOAT64 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_float64_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_float64.dir/src/socket/udp_client.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/udp_client.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/udp_client.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DFLOAT64 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_float64_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_float64.dir/src/socket/udp_server.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/udp_server.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/udp_server.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DFLOAT64 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_float64_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_float64.dir/src/socket/udp_socket.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/udp_socket.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/udp_socket.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DFLOAT64 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_float64_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_float64.dir/src/joint_data.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_data.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_data.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DFLOAT64 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_float64_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_float64.dir/src/joint_feedback.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_feedback.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_feedback.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DFLOAT64 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_float64_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_float64.dir/src/joint_traj_pt_full.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_traj_pt_full.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_traj_pt_full.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DFLOAT64 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_float64_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_float64.dir/src/joint_traj_pt.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_traj_pt.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_traj_pt.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DFLOAT64 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_float64_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_float64.dir/src/joint_traj.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_traj.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_traj.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DFLOAT64 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_float64_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_float64.dir/src/message_handler.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/message_handler.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/message_handler.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DFLOAT64 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_float64_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_float64.dir/src/message_manager.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/message_manager.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/message_manager.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DFLOAT64 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_float64_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_float64.dir/src/ping_handler.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/ping_handler.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/ping_handler.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DFLOAT64 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_float64_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_float64.dir/src/ping_message.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/ping_message.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/ping_message.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DFLOAT64 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_float64_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_float64.dir/src/robot_status.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/robot_status.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/robot_status.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DFLOAT64 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_float64_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_float64.dir/src/messages/joint_feedback_message.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/joint_feedback_message.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/joint_feedback_message.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DFLOAT64 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_float64_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_float64.dir/src/messages/joint_message.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/joint_message.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/joint_message.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DFLOAT64 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_float64_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_float64.dir/src/messages/joint_traj_pt_full_message.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/joint_traj_pt_full_message.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/joint_traj_pt_full_message.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DFLOAT64 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_float64_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_float64.dir/src/messages/joint_traj_pt_message.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/joint_traj_pt_message.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/joint_traj_pt_message.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DFLOAT64 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_float64_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_float64.dir/src/messages/robot_status_message.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/robot_status_message.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/robot_status_message.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DFLOAT64 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_float64_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_float64.dir/src/simple_comms_fault_handler.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/simple_comms_fault_handler.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/simple_comms_fault_handler.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_bswap.dir/src/byte_array.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/byte_array.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/byte_array.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_bswap.dir/src/simple_message.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/simple_message.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/simple_message.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_bswap.dir/src/smpl_msg_connection.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/smpl_msg_connection.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/smpl_msg_connection.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_bswap.dir/src/socket/simple_socket.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/simple_socket.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/simple_socket.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_bswap.dir/src/socket/tcp_client.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/tcp_client.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/tcp_client.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_bswap.dir/src/socket/tcp_server.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/tcp_server.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/tcp_server.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_bswap.dir/src/socket/tcp_socket.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/tcp_socket.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/tcp_socket.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_bswap.dir/src/socket/udp_client.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/udp_client.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/udp_client.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_bswap.dir/src/socket/udp_server.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/udp_server.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/udp_server.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_bswap.dir/src/socket/udp_socket.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/udp_socket.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/socket/udp_socket.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_bswap.dir/src/joint_data.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_data.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_data.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_bswap.dir/src/joint_feedback.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_feedback.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_feedback.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_bswap.dir/src/joint_traj_pt_full.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_traj_pt_full.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_traj_pt_full.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_bswap.dir/src/joint_traj_pt.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_traj_pt.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_traj_pt.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_bswap.dir/src/joint_traj.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_traj.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/joint_traj.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_bswap.dir/src/message_handler.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/message_handler.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/message_handler.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_bswap.dir/src/message_manager.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/message_manager.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/message_manager.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_bswap.dir/src/ping_handler.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/ping_handler.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/ping_handler.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_bswap.dir/src/ping_message.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/ping_message.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/ping_message.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_bswap.dir/src/robot_status.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/robot_status.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/robot_status.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_bswap.dir/src/messages/joint_feedback_message.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/joint_feedback_message.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/joint_feedback_message.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_bswap.dir/src/messages/joint_message.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/joint_message.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/joint_message.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_bswap.dir/src/messages/joint_traj_pt_full_message.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/joint_traj_pt_full_message.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/joint_traj_pt_full_message.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_bswap.dir/src/messages/joint_traj_pt_message.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/joint_traj_pt_message.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/joint_traj_pt_message.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_bswap.dir/src/messages/robot_status_message.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/robot_status_message.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/messages/robot_status_message.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/simple_message",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_message\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dsimple_message_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/simple_message_bswap.dir/src/simple_comms_fault_handler.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/simple_comms_fault_handler.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/simple_message/src/simple_comms_fault_handler.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/realsense-ros/realsense2_camera",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"realsense2_camera\\\" -D_CRT_SECURE_NO_WARNINGS -Drealsense2_camera_EXPORTS -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/realsense-ros/realsense2_camera/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv  -fPIE -fPIC -std=c++11 -D_FORTIFY_SOURCE=2 -fstack-protector -Wformat -Wformat-security -Wall -O2  -O3 -DNDEBUG -fPIC   -std=c++11 -o CMakeFiles/realsense2_camera.dir/src/realsense_node_factory.cpp.o -c /home/jozenlee/catkin_ws/src/realsense-ros/realsense2_camera/src/realsense_node_factory.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/realsense-ros/realsense2_camera/src/realsense_node_factory.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/realsense-ros/realsense2_camera",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"realsense2_camera\\\" -D_CRT_SECURE_NO_WARNINGS -Drealsense2_camera_EXPORTS -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/realsense-ros/realsense2_camera/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv  -fPIE -fPIC -std=c++11 -D_FORTIFY_SOURCE=2 -fstack-protector -Wformat -Wformat-security -Wall -O2  -O3 -DNDEBUG -fPIC   -std=c++11 -o CMakeFiles/realsense2_camera.dir/src/base_realsense_node.cpp.o -c /home/jozenlee/catkin_ws/src/realsense-ros/realsense2_camera/src/base_realsense_node.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/realsense-ros/realsense2_camera/src/base_realsense_node.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/realsense-ros/realsense2_camera",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"realsense2_camera\\\" -D_CRT_SECURE_NO_WARNINGS -Drealsense2_camera_EXPORTS -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/realsense-ros/realsense2_camera/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv  -fPIE -fPIC -std=c++11 -D_FORTIFY_SOURCE=2 -fstack-protector -Wformat -Wformat-security -Wall -O2  -O3 -DNDEBUG -fPIC   -std=c++11 -o CMakeFiles/realsense2_camera.dir/src/t265_realsense_node.cpp.o -c /home/jozenlee/catkin_ws/src/realsense-ros/realsense2_camera/src/t265_realsense_node.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/realsense-ros/realsense2_camera/src/t265_realsense_node.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/trobot_ros/trobot_kinematics",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"trobot_kinematics\\\" -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/trobot_ros/trobot_kinematics/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g   -o CMakeFiles/trajectory_controller.dir/src/trobot_trajectory_controller.cpp.o -c /home/jozenlee/catkin_ws/src/trobot_ros/trobot_kinematics/src/trobot_trajectory_controller.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/trobot_ros/trobot_kinematics/src/trobot_trajectory_controller.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/trobot_ros/trobot_kinematics",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"trobot_kinematics\\\" -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/trobot_ros/trobot_kinematics/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g   -o CMakeFiles/joints_states_controller.dir/src/trobot_joints_states_controller.cpp.o -c /home/jozenlee/catkin_ws/src/trobot_ros/trobot_kinematics/src/trobot_joints_states_controller.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/trobot_ros/trobot_kinematics/src/trobot_joints_states_controller.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/learning_service",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"learning_service\\\" -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG   -o CMakeFiles/person_client.dir/src/person_client.cpp.o -c /home/jozenlee/catkin_ws/src/learning_service/src/person_client.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/learning_service/src/person_client.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/learning_service",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"learning_service\\\" -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG   -o CMakeFiles/turtle_spawn.dir/src/turtle_spawn.cpp.o -c /home/jozenlee/catkin_ws/src/learning_service/src/turtle_spawn.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/learning_service/src/turtle_spawn.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/learning_service",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"learning_service\\\" -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG   -o CMakeFiles/person_server.dir/src/person_server.cpp.o -c /home/jozenlee/catkin_ws/src/learning_service/src/person_server.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/learning_service/src/person_server.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/learning_service",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"learning_service\\\" -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG   -o CMakeFiles/turtle_command_server.dir/src/turtle_command_server.cpp.o -c /home/jozenlee/catkin_ws/src/learning_service/src/turtle_command_server.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/learning_service/src/turtle_command_server.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/learning_tf",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"learning_tf\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG   -o CMakeFiles/turtle_tf_listener.dir/src/turtle_tf_listener.cpp.o -c /home/jozenlee/catkin_ws/src/learning_tf/src/turtle_tf_listener.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/learning_tf/src/turtle_tf_listener.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/learning_tf",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"learning_tf\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG   -o CMakeFiles/turtle_tf_broadcaster.dir/src/turtle_tf_broadcaster.cpp.o -c /home/jozenlee/catkin_ws/src/learning_tf/src/turtle_tf_broadcaster.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/learning_tf/src/turtle_tf_broadcaster.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/learning_topic",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"learning_topic\\\" -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG   -o CMakeFiles/person_subscriber.dir/src/person_subscriber.cpp.o -c /home/jozenlee/catkin_ws/src/learning_topic/src/person_subscriber.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/learning_topic/src/person_subscriber.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/learning_topic",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"learning_topic\\\" -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG   -o CMakeFiles/velocity_publisher.dir/src/velocity_publisher.cpp.o -c /home/jozenlee/catkin_ws/src/learning_topic/src/velocity_publisher.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/learning_topic/src/velocity_publisher.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/learning_topic",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"learning_topic\\\" -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG   -o CMakeFiles/pose_subscriber.dir/src/pose_subscriber.cpp.o -c /home/jozenlee/catkin_ws/src/learning_topic/src/pose_subscriber.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/learning_topic/src/pose_subscriber.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/learning_topic",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"learning_topic\\\" -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG   -o CMakeFiles/person_publisher.dir/src/person_publisher.cpp.o -c /home/jozenlee/catkin_ws/src/learning_topic/src/person_publisher.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/learning_topic/src/person_publisher.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_utils",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_utils\\\" -Dindustrial_utils_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -o CMakeFiles/industrial_utils.dir/src/param_utils.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/src/param_utils.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/src/param_utils.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_utils",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_utils\\\" -Dindustrial_utils_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -o CMakeFiles/industrial_utils.dir/src/utils.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/src/utils.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/src/utils.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_robot_client",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_robot_client\\\" -Dindustrial_robot_client_dummy_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/include -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/include -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/industrial_robot_client_dummy.dir/industrial_robot_client_dummy.cpp.o -c /home/jozenlee/catkin_ws/build/industrial_core/industrial_robot_client/industrial_robot_client_dummy.cpp",
+  "file": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_robot_client/industrial_robot_client_dummy.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_robot_client",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_robot_client\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/include -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/include -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/joint_trajectory_action.dir/src/generic_joint_trajectory_action_node.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/generic_joint_trajectory_action_node.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/generic_joint_trajectory_action_node.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_robot_client",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_robot_client\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/include -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/include -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/joint_trajectory_action.dir/src/joint_trajectory_action.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/joint_trajectory_action.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/joint_trajectory_action.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_robot_client",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_robot_client\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dindustrial_robot_client_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/include -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/include -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/industrial_robot_client.dir/src/joint_relay_handler.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/joint_relay_handler.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/joint_relay_handler.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_robot_client",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_robot_client\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dindustrial_robot_client_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/include -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/include -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/industrial_robot_client.dir/src/joint_trajectory_downloader.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/joint_trajectory_downloader.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/joint_trajectory_downloader.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_robot_client",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_robot_client\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dindustrial_robot_client_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/include -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/include -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/industrial_robot_client.dir/src/joint_trajectory_interface.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/joint_trajectory_interface.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/joint_trajectory_interface.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_robot_client",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_robot_client\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dindustrial_robot_client_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/include -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/include -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/industrial_robot_client.dir/src/joint_trajectory_streamer.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/joint_trajectory_streamer.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/joint_trajectory_streamer.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_robot_client",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_robot_client\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dindustrial_robot_client_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/include -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/include -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/industrial_robot_client.dir/src/robot_state_interface.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/robot_state_interface.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/robot_state_interface.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_robot_client",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_robot_client\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dindustrial_robot_client_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/include -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/include -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/industrial_robot_client.dir/src/robot_status_relay_handler.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/robot_status_relay_handler.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/robot_status_relay_handler.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_robot_client",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_robot_client\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dindustrial_robot_client_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/include -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/include -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/industrial_robot_client.dir/src/utils.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/utils.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/utils.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_robot_client",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_robot_client\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dindustrial_robot_client_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/include -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/include -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/industrial_robot_client_bswap.dir/src/joint_relay_handler.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/joint_relay_handler.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/joint_relay_handler.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_robot_client",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_robot_client\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dindustrial_robot_client_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/include -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/include -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/industrial_robot_client_bswap.dir/src/joint_trajectory_downloader.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/joint_trajectory_downloader.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/joint_trajectory_downloader.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_robot_client",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_robot_client\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dindustrial_robot_client_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/include -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/include -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/industrial_robot_client_bswap.dir/src/joint_trajectory_interface.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/joint_trajectory_interface.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/joint_trajectory_interface.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_robot_client",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_robot_client\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dindustrial_robot_client_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/include -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/include -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/industrial_robot_client_bswap.dir/src/joint_trajectory_streamer.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/joint_trajectory_streamer.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/joint_trajectory_streamer.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_robot_client",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_robot_client\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dindustrial_robot_client_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/include -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/include -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/industrial_robot_client_bswap.dir/src/robot_state_interface.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/robot_state_interface.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/robot_state_interface.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_robot_client",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_robot_client\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dindustrial_robot_client_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/include -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/include -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/industrial_robot_client_bswap.dir/src/robot_status_relay_handler.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/robot_status_relay_handler.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/robot_status_relay_handler.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_robot_client",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_robot_client\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -Dindustrial_robot_client_bswap_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/include -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/include -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/industrial_robot_client_bswap.dir/src/utils.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/utils.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/utils.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_robot_client",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_robot_client\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/include -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/include -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/motion_streaming_interface.dir/src/generic_joint_streamer_node.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/generic_joint_streamer_node.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/generic_joint_streamer_node.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_robot_client",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_robot_client\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/include -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/include -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/motion_download_interface.dir/src/generic_joint_downloader_node.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/generic_joint_downloader_node.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/generic_joint_downloader_node.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_robot_client",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_robot_client\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/include -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/include -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/robot_state.dir/src/generic_robot_state_node.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/generic_robot_state_node.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/generic_robot_state_node.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_robot_client",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_robot_client\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/include -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/include -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/robot_state_bswap.dir/src/generic_robot_state_node.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/generic_robot_state_node.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/generic_robot_state_node.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_robot_client",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_robot_client\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/include -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/include -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/motion_streaming_interface_bswap.dir/src/generic_joint_streamer_node.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/generic_joint_streamer_node.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/generic_joint_streamer_node.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_robot_client",
+  "command": "/usr/bin/c++  -DBYTE_SWAPPING -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_robot_client\\\" -DSIMPLE_MESSAGE_LINUX -DSIMPLE_MESSAGE_USE_ROS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/include -I/home/jozenlee/catkin_ws/devel/include -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_utils/include -I/home/jozenlee/catkin_ws/src/industrial_core/simple_message/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/motion_download_interface_bswap.dir/src/generic_joint_downloader_node.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/generic_joint_downloader_node.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_robot_client/src/generic_joint_downloader_node.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_trajectory_filters",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_trajectory_filters\\\" -Dindustrial_trajectory_filters_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_trajectory_filters/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -O3 -DNDEBUG -fPIC   -std=c++11 -o CMakeFiles/industrial_trajectory_filters.dir/src/add_smoothing_filter.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_trajectory_filters/src/add_smoothing_filter.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_trajectory_filters/src/add_smoothing_filter.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_trajectory_filters",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_trajectory_filters\\\" -Dindustrial_trajectory_filters_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_trajectory_filters/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -O3 -DNDEBUG -fPIC   -std=c++11 -o CMakeFiles/industrial_trajectory_filters.dir/src/n_point_filter.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_trajectory_filters/src/n_point_filter.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_trajectory_filters/src/n_point_filter.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_trajectory_filters",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_trajectory_filters\\\" -Dindustrial_trajectory_filters_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_trajectory_filters/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -O3 -DNDEBUG -fPIC   -std=c++11 -o CMakeFiles/industrial_trajectory_filters.dir/src/smoothing_trajectory_filter.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_trajectory_filters/src/smoothing_trajectory_filter.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_trajectory_filters/src/smoothing_trajectory_filter.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/industrial_core/industrial_trajectory_filters",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"industrial_trajectory_filters\\\" -Dindustrial_trajectory_filters_EXPORTS -I/home/jozenlee/catkin_ws/src/industrial_core/industrial_trajectory_filters/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -O3 -DNDEBUG -fPIC   -std=c++11 -o CMakeFiles/industrial_trajectory_filters.dir/src/uniform_sample_filter.cpp.o -c /home/jozenlee/catkin_ws/src/industrial_core/industrial_trajectory_filters/src/uniform_sample_filter.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/industrial_core/industrial_trajectory_filters/src/uniform_sample_filter.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/21_tigerarm_ros/src/arm_moveit_kinematics",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"arm_moveit_kinematics\\\" -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/usr/include/OGRE -I/usr/include/opencv -I/usr/include/pcl-1.8 -I/usr/include/vtk-6.3 -I/usr/include/freetype2 -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi/opal/mca/event/libevent2022/libevent -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi/opal/mca/event/libevent2022/libevent/include -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/usr/include/python2.7 -I/usr/include/x86_64-linux-gnu -I/usr/include/hdf5/openmpi -I/usr/include/libxml2 -I/usr/include/jsoncpp -I/usr/include/tcl -I/usr/include/ni -I/usr/include/openni2 -I/home/jozenlee/catkin_ws/src/21_tigerarm_ros/src/arm_moveit_kinematics/include -I/usr/local/include  -g   -std=c++11 -o CMakeFiles/arm_moveit_kinematics_node.dir/src/arm_moveit_kinematics_node.cpp.o -c /home/jozenlee/catkin_ws/src/21_tigerarm_ros/src/arm_moveit_kinematics/src/arm_moveit_kinematics_node.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/21_tigerarm_ros/src/arm_moveit_kinematics/src/arm_moveit_kinematics_node.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/21_tigerarm_ros/src/arm_moveit_kinematics",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"arm_moveit_kinematics\\\" -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/usr/include/OGRE -I/usr/include/opencv -I/usr/include/pcl-1.8 -I/usr/include/vtk-6.3 -I/usr/include/freetype2 -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi/opal/mca/event/libevent2022/libevent -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi/opal/mca/event/libevent2022/libevent/include -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/usr/include/python2.7 -I/usr/include/x86_64-linux-gnu -I/usr/include/hdf5/openmpi -I/usr/include/libxml2 -I/usr/include/jsoncpp -I/usr/include/tcl -I/usr/include/ni -I/usr/include/openni2 -I/home/jozenlee/catkin_ws/src/21_tigerarm_ros/src/arm_moveit_kinematics/include -I/usr/local/include  -g   -std=c++11 -o CMakeFiles/arm_3d_perception.dir/src/arm_3d_perception.cpp.o -c /home/jozenlee/catkin_ws/src/21_tigerarm_ros/src/arm_moveit_kinematics/src/arm_3d_perception.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/21_tigerarm_ros/src/arm_moveit_kinematics/src/arm_3d_perception.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/21_tigerarm_ros/src/arm_moveit_kinematics",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"arm_moveit_kinematics\\\" -Darm_offline_trajectory_planner_EXPORTS -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/usr/include/OGRE -I/usr/include/opencv -I/usr/include/pcl-1.8 -I/usr/include/vtk-6.3 -I/usr/include/freetype2 -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi/opal/mca/event/libevent2022/libevent -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi/opal/mca/event/libevent2022/libevent/include -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/usr/include/python2.7 -I/usr/include/x86_64-linux-gnu -I/usr/include/hdf5/openmpi -I/usr/include/libxml2 -I/usr/include/jsoncpp -I/usr/include/tcl -I/usr/include/ni -I/usr/include/openni2 -I/home/jozenlee/catkin_ws/src/21_tigerarm_ros/src/arm_moveit_kinematics/include -I/usr/local/include  -g -fPIC   -std=c++11 -o CMakeFiles/arm_offline_trajectory_planner.dir/src/arm_offline_trajectory_planner.cpp.o -c /home/jozenlee/catkin_ws/src/21_tigerarm_ros/src/arm_moveit_kinematics/src/arm_offline_trajectory_planner.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/21_tigerarm_ros/src/arm_moveit_kinematics/src/arm_offline_trajectory_planner.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/21_tigerarm_ros/src/arm_moveit_kinematics",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"arm_moveit_kinematics\\\" -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/usr/include/OGRE -I/usr/include/opencv -I/usr/include/pcl-1.8 -I/usr/include/vtk-6.3 -I/usr/include/freetype2 -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi/opal/mca/event/libevent2022/libevent -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi/opal/mca/event/libevent2022/libevent/include -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/usr/include/python2.7 -I/usr/include/x86_64-linux-gnu -I/usr/include/hdf5/openmpi -I/usr/include/libxml2 -I/usr/include/jsoncpp -I/usr/include/tcl -I/usr/include/ni -I/usr/include/openni2 -I/home/jozenlee/catkin_ws/src/21_tigerarm_ros/src/arm_moveit_kinematics/include -I/usr/local/include  -g   -std=c++11 -o CMakeFiles/arm_keyboard_node.dir/src/arm_keyboard_node.cpp.o -c /home/jozenlee/catkin_ws/src/21_tigerarm_ros/src/arm_moveit_kinematics/src/arm_keyboard_node.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/21_tigerarm_ros/src/arm_moveit_kinematics/src/arm_keyboard_node.cpp"
+},
+{
+  "directory": "/home/jozenlee/catkin_ws/build/21_tigerarm_ros/src/arm_moveit_kinematics",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"arm_moveit_kinematics\\\" -I/home/jozenlee/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/usr/include/OGRE -I/usr/include/opencv -I/usr/include/pcl-1.8 -I/usr/include/vtk-6.3 -I/usr/include/freetype2 -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi/opal/mca/event/libevent2022/libevent -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi/opal/mca/event/libevent2022/libevent/include -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/usr/include/python2.7 -I/usr/include/x86_64-linux-gnu -I/usr/include/hdf5/openmpi -I/usr/include/libxml2 -I/usr/include/jsoncpp -I/usr/include/tcl -I/usr/include/ni -I/usr/include/openni2 -I/home/jozenlee/catkin_ws/src/21_tigerarm_ros/src/arm_moveit_kinematics/include -I/usr/local/include  -g   -std=c++11 -o CMakeFiles/arm_joints_controller_node.dir/src/arm_joints_controller_node.cpp.o -c /home/jozenlee/catkin_ws/src/21_tigerarm_ros/src/arm_moveit_kinematics/src/arm_joints_controller_node.cpp",
+  "file": "/home/jozenlee/catkin_ws/src/21_tigerarm_ros/src/arm_moveit_kinematics/src/arm_joints_controller_node.cpp"
+}
+]

@@ -1,0 +1,2 @@
+set(arm_moveit_kinematics_MESSAGE_FILES "/home/jozenlee/catkin_ws/src/21_tigerarm_ros/src/arm_moveit_kinematics/msg/joint_plots.msg;/home/jozenlee/catkin_ws/src/21_tigerarm_ros/src/arm_moveit_kinematics/msg/arm_states.msg")
+set(arm_moveit_kinematics_SERVICE_FILES "")
