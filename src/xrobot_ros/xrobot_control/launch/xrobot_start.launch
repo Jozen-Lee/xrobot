@@ -1,0 +1,14 @@
+<launch>
+    <!-- *选择是否控制实体 -->
+    <arg name = "real_module" value = "true"/>
+
+    <!--加载gazeobo仿真环境-->
+    <!-- <include unless ="$(arg real_module)"  file="$(find xrobot_control)/launch/xrobot_sim.launch" />  -->
+    <include  file="$(find xrobot_control)/launch/xrobot_sim.launch" />
+    <!--加载实体控制环境-->
+    <!-- <include if ="$(arg real_module)"  file="$(find xrobot_control)/launch/xrobot_real.launch" />  -->
+    <include  file="$(find xrobot_control)/launch/xrobot_real.launch" /> 
+
+    <!-- 加载moveit相关文件 -->
+    <include file="$(find xrobot_moveit_config)/launch/demo.launch" />  
+</launch> 

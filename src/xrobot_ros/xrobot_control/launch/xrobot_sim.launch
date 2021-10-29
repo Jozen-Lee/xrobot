@@ -1,0 +1,8 @@
+<launch>
+    <!-- 加载webots环境  -->
+     <include file="$(find webots_config)/launch/webots.launch" /> 
+
+    <!-- 加载ROS控制器 -->
+    <node name="webots_ros_controller" pkg="webots_config" type="webots_ros_controller" />
+
+</launch>

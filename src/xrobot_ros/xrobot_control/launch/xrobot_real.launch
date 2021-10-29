@@ -1,0 +1,8 @@
+<launch>
+
+    <!-- 加载机器人关节控制器-->
+    <node name="joints_states_controller" pkg="xrobot_control" type="joints_states_ctrl" />
+
+    <!-- 加载机器人轨迹控制器-->
+    <!-- <node name="trajetory_controller" pkg="xrobot_control" type="trajectory_ctrl" /> -->
+</launch> 

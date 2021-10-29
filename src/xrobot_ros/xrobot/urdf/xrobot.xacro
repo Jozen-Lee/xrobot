@@ -1,0 +1,488 @@
+<?xml version="1.0"?>
+<robot name="xrobot" xmlns:xacro="http://www.ros.org/wiki/xacro">
+ <link name="world"/>
+  <joint name="fixed" type="fixed">
+    <parent link="world" />
+    <child link="base_link" />
+  </joint>
+  <link
+    name="base_link">
+    <inertial>
+      <origin
+        xyz="0.0292502890665502 -0.178648801106571 0.0263512029302801"
+        rpy="0 0 0" />
+      <mass
+        value="0.172815782772731" />
+      <inertia
+        ixx="0.000259349430323028"
+        ixy="2.66244067148391E-13"
+        ixz="-1.85201162809901E-13"
+        iyy="0.000106356896106291"
+        iyz="0.000100551527226304"
+        izz="0.000169028677854162" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://xrobot/meshes/base_link.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://xrobot/meshes/base_link.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <link
+    name="link1">
+    <inertial>
+      <origin
+        xyz="0.000447016246568756 0.00039635290899287 -0.0208005509059673"
+        rpy="0 0 0" />
+      <mass
+        value="0.0580393899360045" />
+      <inertia
+        ixx="6.42193242103214E-06"
+        ixy="-1.27097151646603E-08"
+        ixz="-1.80700954506609E-07"
+        iyy="6.92729489609466E-06"
+        iyz="2.08993863386814E-08"
+        izz="5.0631081327756E-07" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://xrobot/meshes/link1.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://xrobot/meshes/link1.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="joint1"
+    type="revolute">
+    <origin
+      xyz="0.02925 -0.19971 0.051"
+      rpy="3.1416 0 0" />
+    <parent
+      link="base_link" />
+    <child
+      link="link1" />
+    <axis
+      xyz="0 0 1" />
+    <limit
+      lower="-3.14"
+      upper="3.14"
+      effort="100"
+      velocity="1" />
+  </joint>
+  <link
+    name="link2">
+    <inertial>
+      <origin
+        xyz="1.38777878078145E-16 -0.0495614950731298 0.0238649956179246"
+        rpy="0 0 0" />
+      <mass
+        value="0.0169994797251937" />
+      <inertia
+        ixx="9.8891754215374E-06"
+        ixy="-2.81215621363918E-20"
+        ixz="1.19279858350565E-20"
+        iyy="4.4509372117766E-07"
+        iyz="9.56263472768032E-07"
+        izz="9.44408170035974E-06" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://xrobot/meshes/link2.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://xrobot/meshes/link2.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="joint2"
+    type="revolute">
+    <origin
+      xyz="-0.026 -0.0093623 -0.029"
+      rpy="1.5708 0 1.5708" />
+    <parent
+      link="link1" />
+    <child
+      link="link2" />
+    <axis
+      xyz="0 0 1" />
+    <limit
+      lower="-3.14"
+      upper="3.14"
+      effort="100"
+      velocity="1" />
+  </joint>
+  <link
+    name="link3">
+    <inertial>
+      <origin
+        xyz="0.00121857829689442 -0.020136005738826 -0.0259121615749935"
+        rpy="0 0 0" />
+      <mass
+        value="0.0492429864623639" />
+      <inertia
+        ixx="2.28264243613525E-05"
+        ixy="-4.58799806953608E-07"
+        ixz="3.8935227406194E-07"
+        iyy="1.53617796306787E-06"
+        iyz="2.63577384017472E-07"
+        izz="2.22944242031796E-05" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://xrobot/meshes/link3.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://xrobot/meshes/link3.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="joint3"
+    type="revolute">
+    <origin
+      xyz="0 -0.104 0"
+      rpy="3.1416 1E-15 -3.1416" />
+    <parent
+      link="link2" />
+    <child
+      link="link3" />
+    <axis
+      xyz="0 0 -1" />
+    <limit
+      lower="-3.14"
+      upper="3.14"
+      effort="100"
+      velocity="1" />
+  </joint>
+  <link
+    name="link4">
+    <inertial>
+      <origin
+        xyz="-0.0138537781432201 -0.019593553101695 0.0254900603887009"
+        rpy="0 0 0" />
+      <mass
+        value="0.0763258518316471" />
+      <inertia
+        ixx="9.4187405427334E-06"
+        ixy="-1.0309341320149E-05"
+        ixz="-2.8447464915813E-07"
+        iyy="1.42525755322077E-05"
+        iyz="-3.27430668795753E-07"
+        izz="2.15543313078854E-05" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://xrobot/meshes/link4.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://xrobot/meshes/link4.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="joint4"
+    type="revolute">
+    <origin
+      xyz="-0.001 -0.0965 0"
+      rpy="-3.1416 -2E-15 -3.1416" />
+    <parent
+      link="link3" />
+    <child
+      link="link4" />
+    <axis
+      xyz="0 0 1" />
+    <limit
+      lower="-3.14"
+      upper="3.14"
+      effort="100"
+      velocity="1" />
+  </joint>
+  <link
+    name="link5">
+    <inertial>
+      <origin
+        xyz="0.00388024415039572 0.0191733087894507 0.0248820232279329"
+        rpy="0 0 0" />
+      <mass
+        value="0.0370354482255755" />
+      <inertia
+        ixx="3.09590716584593E-06"
+        ixy="-2.69265113020214E-07"
+        ixz="-1.60660619656558E-07"
+        iyy="1.00181294933733E-06"
+        iyz="-7.93866455643796E-07"
+        izz="2.17341885790538E-06" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://xrobot/meshes/link5.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://xrobot/meshes/link5.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="joint5"
+    type="revolute">
+    <origin
+      xyz="-0.028 -0.0565 0.015"
+      rpy="1.5708 -1.5708 0" />
+    <parent
+      link="link4" />
+    <child
+      link="link5" />
+    <axis
+      xyz="0 0 -1" />
+    <limit
+      lower="-3.14"
+      upper="3.14"
+      effort="100"
+      velocity="1" />
+  </joint>
+  <link
+    name="link6">
+    <inertial>
+      <origin
+        xyz="0.0101389216911046 -0.0265895214562799 0.000106345188996604"
+        rpy="0 0 0" />
+      <mass
+        value="0.00470245908475118" />
+      <inertia
+        ixx="1.57344908677699E-06"
+        ixy="4.24373033709471E-07"
+        ixz="-5.19250825344558E-08"
+        iyy="1.39379774569395E-07"
+        iyz="1.89682977766353E-07"
+        izz="1.66641071743274E-06" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://xrobot/meshes/link6.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://xrobot/meshes/link6.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="joint6"
+    type="revolute">
+    <origin
+      xyz="0.013997 -0.0030157 0.026"
+      rpy="-1.5708 1.3997E-14 -0.001125" />
+    <parent
+      link="link5" />
+    <child
+      link="link6" />
+    <axis
+      xyz="0 0 1" />
+    <limit
+      lower="-3.14"
+      upper="3.14"
+      effort="100"
+      velocity="1" />
+  </joint>
+  <link
+    name="link7">
+    <inertial>
+      <origin
+        xyz="-0.0101103012994627 -0.0258764173342183 0.00103644564225763"
+        rpy="0 0 0" />
+      <mass
+        value="0.00483204978171178" />
+      <inertia
+        ixx="1.66006805235176E-06"
+        ixy="-4.56279044694453E-07"
+        ixz="5.53399185862654E-08"
+        iyy="1.51321447574823E-07"
+        iyz="1.98422947049922E-07"
+        izz="1.76325794594412E-06" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://xrobot/meshes/link7.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://xrobot/meshes/link7.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="joint7"
+    type="revolute">
+    <origin
+      xyz="-0.013754 -0.0039845 0.026"
+      rpy="-1.5708 1.3997E-14 -0.001125" />
+    <parent
+      link="link5" />
+    <child
+      link="link7" />
+    <axis
+      xyz="0 0 1" />
+    <limit
+      lower="-3.14"
+      upper="3.14"
+      effort="100"
+      velocity="1" />
+  </joint>
+
+  <!-- Transmissions for ROS Control -->
+  <xacro:macro name="transmission_block" params="joint_name">
+    <transmission name="tran1">
+      <type>transmission_interface/SimpleTransmission</type>
+      <joint name="${joint_name}">
+        <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+      </joint>
+      <actuator name="motor1">
+        <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+        <mechanicalReduction>1</mechanicalReduction>
+      </actuator>
+    </transmission>
+  </xacro:macro>
+  
+  <xacro:transmission_block joint_name="joint1"/>
+  <xacro:transmission_block joint_name="joint2"/>
+  <xacro:transmission_block joint_name="joint3"/>
+  <xacro:transmission_block joint_name="joint4"/>
+  <xacro:transmission_block joint_name="joint5"/>
+  <xacro:transmission_block joint_name="joint6"/>
+  <xacro:transmission_block joint_name="joint7"/>
+
+
+    <!-- ros_control plugin -->  
+<gazebo>    
+    <plugin name="gazebo_ros_control" filename="libgazebo_ros_control.so">    
+        <robotNamespace>/xrobot</robotNamespace>      
+        <robotSimType>gazebo_ros_control/DefaultRobotHWSim</robotSimType>      
+        <legacyModeNS>true</legacyModeNS>    
+    </plugin>  
+</gazebo>
+
+</robot> 
+
